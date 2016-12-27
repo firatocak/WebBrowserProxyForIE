@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowserProxy", "WebBrowserProxy\WebBrowserProxy.csproj", "{B565EBD6-C0EF-46CE-950A-942E95080787}"
+# Visual Studio 2010
+EndProject
+# Visual Studio 2010
+Global
+# Visual Studio 2010
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+# Visual Studio 2010
+		Debug|Any CPU = Debug|Any CPU
+# Visual Studio 2010
+		Debug|x86 = Debug|x86
+# Visual Studio 2010
+		Release|Any CPU = Release|Any CPU
+# Visual Studio 2010
+		Release|x86 = Release|x86
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+# Visual Studio 2010
+		{B565EBD6-C0EF-46CE-950A-942E95080787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{B565EBD6-C0EF-46CE-950A-942E95080787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+# Visual Studio 2010
+		{B565EBD6-C0EF-46CE-950A-942E95080787}.Debug|x86.ActiveCfg = Debug|Any CPU
+# Visual Studio 2010
+		{B565EBD6-C0EF-46CE-950A-942E95080787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+		{B565EBD6-C0EF-46CE-950A-942E95080787}.Release|Any CPU.Build.0 = Release|Any CPU
+# Visual Studio 2010
+		{B565EBD6-C0EF-46CE-950A-942E95080787}.Release|x86.ActiveCfg = Release|Any CPU
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+	GlobalSection(SolutionProperties) = preSolution
+# Visual Studio 2010
+		HideSolutionNode = FALSE
+# Visual Studio 2010
+	EndGlobalSection
+# Visual Studio 2010
+EndGlobal
